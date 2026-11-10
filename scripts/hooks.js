@@ -1,4 +1,4 @@
-const MODULE_ID = "module-template";
+const MODULE_ID = "example-test";
 
 Hooks.once("init", () => {
     console.log(`${MODULE_ID} | init`);

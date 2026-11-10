@@ -1,6 +1,6 @@
 {
-    "id": "module-template",
-    "title": "Module Template",
+    "id": "example-test",
+    "title": "Example Test",
     "description": "A template for creating Foundry VTT modules.",
     "version": "#{VERSION}#",
     "compatibility": {
